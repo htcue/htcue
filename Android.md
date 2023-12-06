@@ -5,8 +5,8 @@
 ## AOSP Rom List
 | Rom      | URL |
 | ----------- | ----------- |
-| paranoidandroid      | [Title](https://paranoidandroid.co/)       |
-| lineageos   | [Text](https://lineageos.org/)        |
-| Evolution X      | [Title](https://evolution-x.org/)       |
-| GrapheneOS   | [Text](https://grapheneos.org/)        |
-| DivestOS      | [Title](https://divestos.org/index.html)       |
+| paranoidandroid      | https://paranoidandroid.co    |
+| lineageos   | https://lineageos.org   |
+| Evolution X      | https://evolution-x.org       |
+| GrapheneOS   | https://grapheneos.org    |
+| DivestOS      | https://divestos.org     |
